@@ -37,7 +37,7 @@
     "knex": "^0.8.6",
     "lodash": "^3.9.3",
     "lodash-deep": "^1.6.0",
-    "moment": "^2.10.3",
+    "moment": "^2.29.2",
     "morgan": "^1.6.0",
     "open": "0.0.5",
     "restangular": "^1.5.1",
