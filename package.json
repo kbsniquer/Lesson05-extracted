@@ -19,7 +19,7 @@
     "bookshelf": "^0.8.1",
     "bootstrap-sass": "^3.3.5",
     "brfs": "^1.4.0",
-    "bulk-require": "^0.2.1",
+    "bulk-require": "^1.0.1",
     "bulkify": "^1.1.1",
     "compass": "^0.1.1",
     "connect-session-knex": "^1.0.14",
@@ -28,13 +28,13 @@
     "express": "^4.13.0",
     "express-session": "^1.11.3",
     "feed-read": "0.0.1",
-    "grunt": "^0.4.5",
+    "grunt": "^1.5.3",
     "grunt-concurrent": "^2.0.0",
     "grunt-contrib-compass": "^1.0.3",
-    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-watch": "^1.1.0",
     "jquery": "^2.1.4",
     "jquery.cookie": "^1.4.1",
-    "knex": "^0.8.6",
+    "knex": "^2.3.0",
     "lodash": "^3.9.3",
     "lodash-deep": "^1.6.0",
     "moment": "^2.10.3",
@@ -45,6 +45,6 @@
     "underscore.string": "^3.1.1"
   },
   "devDependencies": {
-    "browserify": "^10.2.6"
+    "browserify": "^17.0.0"
   }
 }
